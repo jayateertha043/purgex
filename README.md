@@ -17,7 +17,7 @@ or
 Install using Go get:
 
 ```
-go get github.com/jayateertha043/purgex
+go install github.com/jayateertha043/purgex@latest
 ```
 
 Run purgex:
